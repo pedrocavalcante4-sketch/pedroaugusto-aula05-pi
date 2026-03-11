@@ -2,14 +2,17 @@
 Criação do repositório
 
 É o processo de criar um espaço no GitHub para armazenar os arquivos de um projeto e seu histórico de alterações.
+<img width="846" height="860" alt="image" src="https://github.com/user-attachments/assets/30b6009f-db6a-4330-ae02-ebc3e5a827eb" />
 
 Clone do repositório
 
 É copiar um repositório do GitHub para o computador local para poder trabalhar nos arquivos.
+<img width="793" height="1018" alt="image" src="https://github.com/user-attachments/assets/c98ee85b-205e-4251-b61e-2f4aebc8e060" />
 
 Criação de branch
 
 Uma branch é uma ramificação do projeto usada para desenvolver novas funcionalidades ou fazer alterações sem modificar a versão principal.
+<img width="1139" height="675" alt="image" src="https://github.com/user-attachments/assets/638fdc2d-8377-4d51-8f3c-db4ee3e9a83d" />
 
 Registro de commits
 
